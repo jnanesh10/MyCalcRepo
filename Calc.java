@@ -11,6 +11,7 @@ public static int sub(int a, int b){
 public static void main(String[] args){
   System.out.println(add(10,20));
   System.out.println(sub(50,40));
+  System.out.println("Hello World");
 }
 
 }
